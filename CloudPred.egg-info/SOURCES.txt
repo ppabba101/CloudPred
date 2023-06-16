@@ -1,0 +1,17 @@
+README.md
+setup.py
+CloudPred.egg-info/PKG-INFO
+CloudPred.egg-info/SOURCES.txt
+CloudPred.egg-info/dependency_links.txt
+CloudPred.egg-info/requires.txt
+CloudPred.egg-info/top_level.txt
+cloudpred/__init__.py
+cloudpred/__main__.py
+cloudpred/__version__.py
+cloudpred/cloudpred.py
+cloudpred/deepset.py
+cloudpred/generative.py
+cloudpred/genpat.py
+cloudpred/main.py
+cloudpred/parser.py
+cloudpred/utils.py

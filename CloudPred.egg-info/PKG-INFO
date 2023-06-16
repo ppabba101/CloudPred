@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: CloudPred
+Version: 1.0
+Summary: Predicting Individual Outcome From Heterogeneous Point Clouds
+Home-page: https://github.com/bryanhe/CloudPred
+Classifier: Programming Language :: Python :: 3
